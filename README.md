@@ -11,6 +11,7 @@
 <img align = "center" alt = "css" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" </img>
 <img align = "center" alt = "js" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" </img>
 <img align = "center" alt = "ts" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" </img>
+<img align = "center" alt = "node" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"</img> 
 <img align = "center" alt = "react" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" </img>
 <img align = "center" alt = "sass" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" </img>
  </div>
